@@ -1,0 +1,25 @@
+<streamingInfos>
+
+<streaminginfo>
+	<cname>number 01</cname>
+	<item> 
+		<title>| [COLOR white][B] FRANCE [/B][/COLOR] |</title>
+		<link>ignore</link>
+		<fanart>http://www.lelouphurlant.fr/wp-content/uploads/2015/04/louplong-740x340.jpg</fanart>
+		<thumbnail>http://flags.fmcdn.net/data/flags/w580/fr.png</thumbnail>
+   		<externallink></externallink>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>number 01</cname>
+	<item>
+		<title>| [COLOR white][B] BELGIQUE [/B][/COLOR] |</title>
+		<link>ignore</link>
+		<fanart>http://www.lelouphurlant.fr/wp-content/uploads/2015/04/louplong-740x340.jpg</fanart>
+		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg</thumbnail>
+   		<externallink></externallink>
+	</item>
+</streaminginfo>
+
+</streamingInfos>
