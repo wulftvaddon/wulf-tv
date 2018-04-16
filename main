@@ -14,10 +14,10 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-		<title>| [COLOR red][B] LIVE TV [/B][/COLOR] |</title>
+		<title>| [COLOR gold][B] LIVE TV [/B][/COLOR] |</title>
 		<link>ignore</link>
 		<fanart>http://www.lelouphurlant.fr/wp-content/uploads/2015/04/louplong-740x340.jpg</fanart>
-		<thumbnail>https://s3.envato.com/files/157976555/01.png</thumbnail>
+		<thumbnail>https://cdn2.iconfinder.com/data/icons/social-media-network-fill-flat-icon/512/GooglePlay-512.png</thumbnail>
    		<externallink>https://raw.githubusercontent.com/wulftvaddon/wulf-tv/master/livetv</externallink>
 	</item>
 </streaminginfo>
@@ -25,10 +25,10 @@
 <streaminginfo>
 	<cname>number 01</cname>
 	<item>
-		<title>| [COLOR yellow][B] VOD [/B][/COLOR] |</title>
+		<title>| [COLOR tomato][B] VOD [/B][/COLOR] |</title>
 		<link>ignore</link>
 		<fanart>http://www.lelouphurlant.fr/wp-content/uploads/2015/04/louplong-740x340.jpg</fanart>
-		<thumbnail>http://www.satelcom.be/shop1462/img/p/226-574-thickbox.jpg</thumbnail>
+		<thumbnail>https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/video-512.png</thumbnail>
    		<externallink>https://www118.zippyshare.com/d/c5zFF8dw/43515/vod.m3u</externallink>
 	</item>
 </streaminginfo> 
